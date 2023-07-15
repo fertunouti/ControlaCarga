@@ -1,0 +1,7 @@
+{
+  "name": "ControlaCarga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
